@@ -1,0 +1,12 @@
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.deps.json
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.dll
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.pdb
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.csproj.AssemblyReference.cache
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.AssemblyInfoInputs.cache
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.AssemblyInfo.cs
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.csproj.CoreCompileInputs.cache
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.dll
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\refint\SistemaInventarioV6.Utilidades.dll
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.pdb
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\ref\SistemaInventarioV6.Utilidades.dll

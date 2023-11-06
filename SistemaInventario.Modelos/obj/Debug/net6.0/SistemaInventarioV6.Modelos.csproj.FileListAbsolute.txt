@@ -1,0 +1,15 @@
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventarioV6.Modelos.deps.json
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventarioV6.Modelos.dll
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventarioV6.Modelos.pdb
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.dll
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.pdb
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.csproj.AssemblyReference.cache
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.AssemblyInfoInputs.cache
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.AssemblyInfo.cs
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.csproj.CoreCompileInputs.cache
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.csproj.CopyComplete
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.dll
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\refint\SistemaInventarioV6.Modelos.dll
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.pdb
+D:\UdemyASPNET\Ejerciciosdelcurso\SistemaInventarioV6\SistemaInventario.Modelos\obj\Debug\net6.0\ref\SistemaInventarioV6.Modelos.dll
